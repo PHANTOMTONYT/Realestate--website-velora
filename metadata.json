@@ -1,0 +1,6 @@
+{
+  "name": "Orrien Real Estate",
+  "description": "A high-end, immersive interactive showcase of Orrien High Haven luxury architectural properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
